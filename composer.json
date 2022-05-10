@@ -1,5 +1,5 @@
 {
-    "name": "league/flysystem-rackspace",
+    "name": "vkovalc/flysystem-rackspace",
     "description": "Flysystem adapter for Rackspace",
     "license": "MIT",
     "authors": [
